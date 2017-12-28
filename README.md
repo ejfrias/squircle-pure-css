@@ -1,7 +1,7 @@
 # squircle-pure-css
 A pure CSS implementation of squircle shape
 
-This will only work for a square shaped elements (i.e. with equal height and width like 100x100)
+This will only work on a square shaped element (i.e. with equal height and width like 100x100)
 
 ```css
 .squircle {
